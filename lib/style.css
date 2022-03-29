@@ -1,3 +1,17 @@
 h1 {
 	color: red;
 }
+.last-name {
+	font-size: 22 px;
+	font-weight: bold;
+}
+.first-name {
+	font-size: 18 px;
+}
+.last-name {
+	font-size: 18 px;
+	font-weight: grey;
+}
+.marchenko {
+	color: navy;
+}
