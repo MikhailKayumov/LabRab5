@@ -14,4 +14,16 @@ h1 {
 }
 .marchenko {
 	color: navy;
+	font-size: 18px;
+	font-weight: bold;
+}
+.first-name {
+	font-size:  18px;
+}
+.second-name {
+	font-size: 18px;
+	color: grey;
+}
+.shaimieva {
+	color: fuchsia;
 }
