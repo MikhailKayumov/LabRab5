@@ -7,11 +7,17 @@ h1 {
 }
 .first-name {
 	font-size: 18px;
+	font-size: 22px;
+	font-weight: bold;
 }
-.second-name {
+.marchenko {
+	color: navy;
 	font-size: 18px;
-	color: grey;
+	font-weight: bold;
 }
 .kayumov {
 	color: blue;
+}
+.shaimieva {
+	color: fuchsia;
 }
